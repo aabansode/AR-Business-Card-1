@@ -5,4 +5,4 @@ This is Augmented Reality Application on Business Cards which show augmented obj
 
 ## Developer
 
-- Vivek Ghanchi ([@vivekghanchi](https://github.com/vivekghanchi))
+- [@vivekghanchi](https://github.com/vivekghanchi)
