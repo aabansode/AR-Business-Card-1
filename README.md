@@ -7,5 +7,7 @@ This is Augmented Reality Application on Business Cards which show  animated aug
 
  [@vivekghanchi](https://github.com/vivekghanchi)
 
+## Technology Stack
 
-vivek
+- Vuforia
+- Unity
