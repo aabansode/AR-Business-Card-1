@@ -6,3 +6,6 @@ This is Augmented Reality Application on Business Cards which show  animated aug
 ## Developer
 
  [@vivekghanchi](https://github.com/vivekghanchi)
+
+
+vivek
