@@ -10,4 +10,4 @@ This is Augmented Reality Application on Business Cards which show  animated aug
 ## Technology Stack
 
 - Vuforia
-- Unity
+- Unity3D
